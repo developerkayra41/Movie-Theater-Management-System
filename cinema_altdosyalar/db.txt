@@ -1,0 +1,1 @@
+Data Source=DESKTOP-ANF5MEQ;Initial Catalog=cinema_db;Integrated Security=True
